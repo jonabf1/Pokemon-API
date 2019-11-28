@@ -14,15 +14,15 @@
 
 ### Routes
 
-- post('/user’)
-- post('/session')
-- put('/user');
+- post('/user’) - Create a new user
+- post('/session') - Login with created account
+- put('/user') - Update fields of user
 
-- get('/pokemon')
-- get('/pokemon/details/:name')
-- post('/pokemon/:name')
-- put('/pokemon/:name')
-- delete('/pokemon/:name')
+- get('/pokemon') - List of favorite pokemons
+- get('/pokemon/details/:name') - Details of any specific pokemon
+- post('/pokemon/:name') - Add some pokemon to the wish list
+- put('/pokemon/:name') - Add some fields from a favorite pokemon
+- delete('/pokemon/:name') - Delete any favorite pokemon
 
 
 ### :rocket: Dependencies used
