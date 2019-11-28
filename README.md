@@ -1,4 +1,4 @@
-# Chanllenge-LiveOnSolutions
+# Challenge-LiveOnSolutions
 
 ### How install
 
@@ -10,19 +10,19 @@
 
 ### Documentation
 
-- navigate to ‘Public/index.html’
+- navigate to ‘public/apidoc/index.html’
 
 ### Routes
 
-post('/user’)
-post('/session')
-put('/user');
+- post('/user’)
+- post('/session')
+- put('/user');
 
-get('/pokemon')
-get('/pokemon/details/:name')
-post('/pokemon/:name')
-put('/pokemon/:name')
-delete('/pokemon/:name')
+- get('/pokemon')
+- get('/pokemon/details/:name')
+- post('/pokemon/:name')
+- put('/pokemon/:name')
+- delete('/pokemon/:name')
 
 
 ### :rocket: Dependencies used
@@ -42,7 +42,7 @@ delete('/pokemon/:name')
 
 #### 3. Resume of tests
 
-![Alt Text](frontend/src/assets/c.gif)
+![Alt Text](public/apidoc/img/tests.png)
 
 ---
 
