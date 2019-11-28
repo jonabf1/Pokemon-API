@@ -1,8 +1,6 @@
 # Challenge-LiveOnSolutions
 
-### How install
-
-#### :rocket: Backend
+### :rocket: How install
 
 - yarn install (install dependencies)
 - yarn start (to open the server)
