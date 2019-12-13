@@ -3,7 +3,7 @@
 <img src="https://pokeapi.co/static/logo-6221638601ef7fa7c835eae08ef67a16.png" width="200px">
 </h1>
 
-### :rocket: About
+### :page_with_curl: About
 This is a basic API to list and bookmark pokemons, so it also contains user token authentication.
 The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 
