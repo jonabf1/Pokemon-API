@@ -1,4 +1,3 @@
-# Challenge-LiveOnSolutions
 <h1 align="center">
 <img src="https://pokeapi.co/static/logo-6221638601ef7fa7c835eae08ef67a16.png" width="200px">
 </h1>
@@ -24,11 +23,11 @@ The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 - To support environment variables in Windows *`*npm install -g win-node-env`**
 - `docker-compose -f docker-compose-test.yaml up` (start testing)
 
-### API Documentation
+### :page_facing_up: API Documentation
 
 - navigate to ‘public/apidoc/index.html’
 
-### Routes
+### :page_facing_up: Routes
 
 - post('/user’) - Create a new user
 - post('/session') - Login with created account
@@ -56,7 +55,7 @@ The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 - youch
 - yup           |
 
-#### Resume of tests
+### :white_check_mark: Resume of tests
 
 <p align="center">
   <img alt="" src="public/apidoc/img/tests.png">
