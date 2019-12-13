@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://pokeapi.com/">
+<a href="https://pokeapi.co/">
 <img src="https://pokeapi.co/static/logo-6221638601ef7fa7c835eae08ef67a16.png" width="200px">
   </a>
 </h1>
