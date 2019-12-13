@@ -1,14 +1,30 @@
 # Challenge-LiveOnSolutions
+<h1 align="center">
+<img src="https://pokeapi.co/static/logo-6221638601ef7fa7c835eae08ef67a16.png" width="200px">
+</h1>
+
+### :rocket: About
+This is a basic API to list and bookmark pokemons, so it also contains user token authentication.
+The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 
 ### :rocket: How install
+- `git clone https://github.com/jonabf1/Challenge-LiveOnSolutions-NodeJS/edit/master/README.md`
+- **Go to repository folder**
+- `yarn install` (install the dependencies)
 
-- yarn install (install dependencies)
-- yarn start (to open the server)
+### :rocket: How to start the server
+- `yarn start` (start the server)
 
-- To run tests in Windows run **npm install -g win-node-env**
-- yarn test (to open the tests with jest)
+- To support environment variables in Windows **`npm install -g win-node-env`**
+- `yarn test` (start testing)
 
-### Documentation
+### :rocket: How to start the server with **docker**
+- `docker-compose up` (start the server)
+
+- To support environment variables in Windows *`*npm install -g win-node-env`**
+- `docker-compose -f docker-compose-test.yaml up` (start testing)
+
+### API Documentation
 
 - navigate to ‘public/apidoc/index.html’
 
@@ -38,9 +54,9 @@
 - jsonwebtoken
 - suportest
 - youch
-- yup
+- yup           |
 
-#### 3. Resume of tests
+#### Resume of tests
 
 <p align="center">
   <img alt="" src="public/apidoc/img/tests.png">
