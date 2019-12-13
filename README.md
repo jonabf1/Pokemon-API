@@ -4,6 +4,8 @@
 
 - yarn install (install dependencies)
 - yarn start (to open the server)
+
+- To run tests in Windows run **npm install -g win-node-env**
 - yarn test (to open the tests with jest)
 
 ### Documentation
@@ -40,8 +42,12 @@
 
 #### 3. Resume of tests
 
-![Alt Text](public/apidoc/img/tests.png)
+<p align="center">
+  <img alt="" src="public/apidoc/img/tests.png">
+</p>
 
 ---
 
-Made with ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
+<p align="center">
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+</p>
