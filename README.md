@@ -6,18 +6,16 @@
 This is a basic API to list and bookmark pokemons, so it also contains user token authentication.
 The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 
-### :rocket: How install
+### :rocket: How install and start
 - `git clone https://github.com/jonabf1/Challenge-LiveOnSolutions-NodeJS/edit/master/README.md`
 - **Go to repository folder**
 - `yarn install` (install the dependencies)
-
-### :rocket: How to start the server
 - `yarn start` (start the server)
 
 - To support environment variables in Windows **`npm install -g win-node-env`**
 - `yarn test` (start testing)
 
-### :rocket: How to start the server with **docker**
+### :rocket: How to install and start the server with **docker**
 - `docker-compose up` (start the server)
 
 - To support environment variables in Windows *`*npm install -g win-node-env`**
