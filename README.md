@@ -18,7 +18,7 @@ The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 ### :rocket: How to install and start the server with **docker**
 - `docker-compose up` (start the server)
 
-- To support environment variables in Windows *`*npm install -g win-node-env`**
+- To support environment variables in Windows `**npm install -g win-node-env**`
 - `docker-compose -f docker-compose-test.yaml up` (start testing)
 
 ### :page_facing_up: API Documentation
