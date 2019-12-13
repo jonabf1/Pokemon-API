@@ -51,7 +51,7 @@ The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/api/v2)
 - jsonwebtoken
 - suportest
 - youch
-- yup           |
+- yup        
 
 ### :white_check_mark: Resume of tests
 
