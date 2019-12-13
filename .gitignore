@@ -5,5 +5,6 @@ tmp/*
 
 dist
 
-data
+data/db
+data\db
 
