@@ -9,7 +9,7 @@ This is a basic API to list and bookmark pokemons, so it also contains user toke
 The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/)
 
 ### :rocket: How install and start
-- `git clone https://github.com/jonabf1/Challenge-LiveOnSolutions-NodeJS/edit/master/README.md`
+- `git clone https://github.com/jonabf1/Pokemon-API`
 - **Go to repository folder**
 - `yarn install` (install the dependencies)
 - `yarn start` (start the server)
