@@ -18,6 +18,7 @@ The consumed API of Pokemons is provided by [PokeApi](https://pokeapi.co/)
 - `yarn test` (start testing)
 
 ### :rocket: How to install and start the server with **docker**
+- `git clone https://github.com/jonabf1/Pokemon-API`
 - **Go to repository folder**
 - `docker-compose up` (start the server)
 
